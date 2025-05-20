@@ -1,0 +1,90 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "category": "office",
+        "categoryTag": "best sellers",
+        "description": "Stylish leather handbag with ample storage space.",
+        "price": 79.99,
+        "oldPrice": 99.99,
+        "image": "/product_1.png",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "category": "office",
+        "categoryTag": "best sellers",
+        "description": "Elegant evening gown for special occasions.",
+        "price": 149.99,
+        "oldPrice": 199.99,
+        "image": "/product_2.png",
+        "rating": 4.0
+      },
+      {
+        "id": 3,
+        "name": "Product 3",
+        "category": "gift",
+        "categoryTag": "best sellers",
+        "description": "Exquisite gold necklace with intricate design.",
+        "price": 199.99,
+        "image": "/product_3.jpg",
+        "rating": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Product 4",
+        "category": "gift",
+        "categoryTag": "best sellers",
+        "description": "Long-lasting matte lipstick in various shades.",
+        "price": 19.99,
+        "image": "/product_4.jpg",
+        "rating": 4.2
+      },
+      {
+        "id": 5,
+        "name": "Product 5",
+        "category": "house",
+        "categoryTag": "best sellers",
+        "description": "Luxurious silk scarf with vibrant colors.",
+        "price": 29.99,
+        "oldPrice": 39.99,
+        "image": "/product_5.jpg",
+        "rating": 4.3
+      },
+      {
+        "id": 6,
+        "name": "Product 6",
+        "category": "house",
+        "categoryTag": "best sellers",
+        "description": "Chic cocktail dress for parties and events.",
+        "price": 89.99,
+        "image": "/product_6.jpg",
+        "rating": 4.4
+      },
+      {
+        "id": 7,
+        "name": "Product 7",
+        "category": "bonsai",
+        "categoryTag": "hot sales",
+        "description": "Sparkling diamond earrings that add elegance to any outfit.",
+        "price": 299.99,
+        "oldPrice": 349.99,
+        "image": "/product_7.jpg",
+        "rating": 4.8
+      },
+      {
+        "id": 8,
+        "name": "Product 8",
+        "category": "gift",
+        "categoryTag": "new arrivals",
+        "description": "High-coverage foundation for a flawless finish.",
+        "price": 39.99,
+        "image": "/product_8.jpg",
+        "rating": 4.1
+      }
+    ]
+  }
+  
+  
