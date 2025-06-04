@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an instance of Axios with the default configuration
 const axiosAPIInstance = axios.create({
-  baseURL: 'https://eplant.onrender.com', 
+  baseURL: 'https://eplant.onrender.com/api', 
   timeout: 50000, 
   headers: {
     'Content-Type': 'application/json', 
