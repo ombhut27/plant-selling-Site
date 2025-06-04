@@ -16,7 +16,7 @@ const port = process.env.PORT || 5000
 connectDB();
 connectCloudinary()
 
-const allowedOrigins = ['https://eplant-frontend.onrender.com','http://localhost:5174'];
+const allowedOrigins = ['https://eplant-frontend.onrender.com','https://eplant-admin.onrender.com'];
 
 app.use(express.json());
 app.use(cookieParser());
