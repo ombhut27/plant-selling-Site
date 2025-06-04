@@ -10,7 +10,7 @@ import Add from './pages/Add';
 import List from './pages/List';
 import Orders from './pages/Order';
 
-export const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://localhost:5000";
+export const backendUrl = import.meta.env.VITE_BACKEND_URL || "https://eplant.onrender.com";
 export const currency = '$';
 
 const App = () => {
